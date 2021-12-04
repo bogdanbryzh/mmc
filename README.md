@@ -1,0 +1,1 @@
+# mmc grub theme
